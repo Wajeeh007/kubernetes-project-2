@@ -30,10 +30,10 @@ pods
 environments automatically get scaled up and configured
 The following tools must be used:
 
-1. EC2
-2. Kubernetes
-3. Docker
-4. Ansible or Chef or Puppet
+a. EC2
+b. Kubernetes
+c. Docker
+d. Ansible or Chef or Puppet
 
 The following things to be kept in check:
 1. You need to document the steps and write the algorithms in them.
